@@ -5,5 +5,6 @@ public class Hi {
 	
 	void Hello (){
 		System.out.println(Hello);
+		System.out.println("dfsghdf");
 	}
 }
