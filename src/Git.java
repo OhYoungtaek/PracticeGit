@@ -6,9 +6,11 @@ public class Git {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			System.out.println("Hello GIT ^^");
+		final String msg = "Hello";
+		
+		System.out.println("Hello GIT ^^");
 			
-			int a = 0;
+		int b = 0;
 	}
 
 }
